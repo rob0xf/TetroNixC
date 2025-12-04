@@ -1,0 +1,3 @@
+/home/rob0xf/Programs/C/projects/TetroNixC/build/CMakeFiles/TetroNixC.dir
+/home/rob0xf/Programs/C/projects/TetroNixC/build/CMakeFiles/edit_cache.dir
+/home/rob0xf/Programs/C/projects/TetroNixC/build/CMakeFiles/rebuild_cache.dir
